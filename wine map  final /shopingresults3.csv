@@ -1,0 +1,217 @@
+,,wine,region,price,Popularity
+df0,1,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$53,949
+df0,3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$156,982
+df0,5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1033
+df0,6,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,$94,1041
+df0,7,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$190,1051
+df0,8,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$109,1092
+df0,9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$22,1100
+df0,10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,$45,1101
+df0,11,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,$80,1114
+df0,12,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$244,1124
+df0,13,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,$27,1130
+df0,15,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$28,1148
+df0,16,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$120,1167
+df0,17,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,$82,1186
+df0,18,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,$75,1205
+df0,20,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$126,1266
+df0,21,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,$246,1291
+df0,22,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$251,1297
+df0,24,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1302
+df0,25,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,$402,1318
+df1,1,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$53,949
+df1,2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$417,960
+df1,3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$156,982
+df1,4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$173,993
+df1,5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1033
+df1,8,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$109,1092
+df1,9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$22,1100
+df1,10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,$45,1101
+df1,11,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,$80,1114
+df1,12,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$244,1124
+df1,13,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,$27,1130
+df1,14,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,$153,1142
+df1,15,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$28,1148
+df1,16,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$120,1167
+df1,18,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,$75,1205
+df1,19,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,$146,1217
+df1,20,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$126,1266
+df1,22,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$251,1297
+df1,23,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$70,1297
+df1,24,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1302
+df2,3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$156,982
+df2,4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$173,993
+df2,5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1033
+df2,6,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,$94,1041
+df2,7,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$190,1051
+df2,8,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$109,1092
+df2,9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$22,1100
+df2,10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,$45,1101
+df2,11,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,$80,1114
+df2,12,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$244,1124
+df2,13,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,$27,1130
+df2,15,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$28,1148
+df2,16,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$120,1167
+df2,18,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,$75,1205
+df2,19,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,$146,1217
+df2,20,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$126,1266
+df2,21,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,$246,1291
+df2,22,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$251,1297
+df2,24,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1302
+df2,25,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,$402,1318
+df3,2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$417,960
+df3,3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$156,982
+df3,4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$173,993
+df3,5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1033
+df3,7,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$190,1051
+df3,8,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$109,1092
+df3,9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$22,1100
+df3,11,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,$80,1114
+df3,13,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,$27,1130
+df3,14,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,$153,1142
+df3,15,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$28,1148
+df3,16,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$120,1167
+df3,17,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,$82,1186
+df3,18,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,$75,1205
+df3,19,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,$146,1217
+df3,20,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$126,1266
+df3,21,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,$246,1291
+df3,23,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$70,1297
+df3,24,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1302
+df3,25,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,$402,1318
+df4,2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$417,960
+df4,3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$156,982
+df4,4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$173,993
+df4,5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1033
+df4,8,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$109,1092
+df4,9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$22,1100
+df4,10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,$45,1101
+df4,11,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,$80,1114
+df4,12,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$244,1124
+df4,13,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,$27,1130
+df4,14,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,$153,1142
+df4,15,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$28,1148
+df4,16,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$120,1167
+df4,17,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,$82,1186
+df4,18,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,$75,1205
+df4,20,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$126,1266
+df4,21,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,$246,1291
+df4,23,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$70,1297
+df4,24,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1302
+df4,25,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,$402,1318
+df5,2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$417,960
+df5,3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$156,982
+df5,4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$173,993
+df5,5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1033
+df5,6,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,$94,1041
+df5,7,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$190,1051
+df5,8,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$109,1092
+df5,10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,$45,1101
+df5,11,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,$80,1114
+df5,12,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$244,1124
+df5,14,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,$153,1142
+df5,15,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$28,1148
+df5,16,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$120,1167
+df5,18,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,$75,1205
+df5,19,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,$146,1217
+df5,20,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$126,1266
+df5,21,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,$246,1291
+df5,22,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$251,1297
+df5,23,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$70,1297
+df5,25,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,$402,1318
+df6,3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$156,982
+df6,4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$173,993
+df6,10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,$45,1101
+df6,18,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,$75,1205
+df6,21,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,$246,1291
+df7,1,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$53,949
+df7,5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1033
+df7,6,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,$94,1041
+df7,15,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$28,1148
+df7,18,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,$75,1205
+df8,3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$156,982
+df8,6,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,$94,1041
+df8,7,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$190,1051
+df8,8,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$109,1092
+df8,10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,$45,1101
+df9,9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$22,1100
+df9,13,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,$27,1130
+df9,14,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,$153,1142
+df9,15,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$28,1148
+df9,17,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,$82,1186
+df10,3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$156,982
+df10,4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$173,993
+df10,9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$22,1100
+df10,10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,$45,1101
+df10,16,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$120,1167
+df11,2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$417,960
+df11,6,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,$94,1041
+df11,15,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$28,1148
+df11,19,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,$146,1217
+df11,23,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$70,1297
+df12,2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$417,960
+df12,4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$173,993
+df12,6,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,$94,1041
+df12,9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$22,1100
+df12,13,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,$27,1130
+df12,19,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,$146,1217
+df12,21,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,$246,1291
+df12,22,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$251,1297
+df12,23,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$70,1297
+df12,24,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1302
+df12,25,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,$402,1318
+df13,2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$417,960
+df13,3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$156,982
+df13,4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$173,993
+df13,5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1033
+df13,7,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$190,1051
+df13,8,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$109,1092
+df13,11,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,$80,1114
+df13,14,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,$153,1142
+df13,15,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$28,1148
+df13,19,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,$146,1217
+df13,23,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$70,1297
+df14,2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$417,960
+df14,5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1033
+df14,10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,$45,1101
+df14,11,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,$80,1114
+df14,14,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,$153,1142
+df14,16,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$120,1167
+df14,17,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,$82,1186
+df14,18,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,$75,1205
+df14,22,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$251,1297
+df14,23,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$70,1297
+df14,25,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,$402,1318
+df15,1,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$53,949
+df15,3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$156,982
+df15,9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$22,1100
+df15,13,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,$27,1130
+df15,14,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,$153,1142
+df15,16,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$120,1167
+df15,17,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,$82,1186
+df15,19,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,$146,1217
+df15,20,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$126,1266
+df15,23,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$70,1297
+df15,25,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,$402,1318
+df16,1,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$53,949
+df16,2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$417,960
+df16,3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$156,982
+df16,4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$173,993
+df16,6,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,$94,1041
+df16,8,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$109,1092
+df16,9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$22,1100
+df16,10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,$45,1101
+df16,14,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,$153,1142
+df16,20,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$126,1266
+df16,25,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,$402,1318
+df17,1,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$53,949
+df17,2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$417,960
+df17,3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$156,982
+df17,5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1033
+df17,9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$22,1100
+df17,13,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,$27,1130
+df17,16,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$120,1167
+df17,18,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,$75,1205
+df17,20,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$126,1266
+df17,24,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,$86,1302
+df17,25,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,$402,1318

@@ -1,0 +1,1081 @@
+,day,coustomer,wine,region,price,Popularity
+0,day5,a0,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+1,day5,a0,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+2,day5,a0,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+3,day5,a0,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+4,day5,a0,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+5,day5,a0,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+6,day5,a0,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+7,day5,a0,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+8,day5,a0,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+9,day5,a0,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+10,day5,a0,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+11,day5,a0,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+12,day5,a0,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+13,day5,a0,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+14,day5,a0,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+15,day5,a0,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+16,day5,a0,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+17,day5,a0,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+18,day5,a0,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+19,day5,a0,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+20,day5,a1,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+21,day5,a1,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+22,day5,a1,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+23,day5,a1,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+24,day5,a1,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+25,day5,a1,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+26,day5,a1,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+27,day5,a1,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+28,day5,a1,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+29,day5,a1,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+30,day5,a1,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+31,day5,a1,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+32,day5,a1,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+33,day5,a1,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+34,day5,a1,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+35,day5,a1,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+36,day5,a1,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+37,day5,a1,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+38,day5,a1,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+39,day5,a1,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+40,day5,a2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+41,day5,a2,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+42,day5,a2,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+43,day5,a2,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+44,day5,a2,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+45,day5,a2,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+46,day5,a2,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+47,day5,a2,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+48,day5,a2,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+49,day5,a2,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+50,day5,a2,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+51,day5,a2,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+52,day5,a2,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+53,day5,a2,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+54,day5,a2,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+55,day5,a2,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+56,day5,a2,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+57,day5,a2,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+58,day5,a2,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+59,day5,a2,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+60,day5,a3,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+61,day5,a3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+62,day5,a3,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+63,day5,a3,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+64,day5,a3,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+65,day5,a3,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+66,day5,a3,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+67,day5,a3,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+68,day5,a3,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+69,day5,a3,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+70,day5,a3,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+71,day5,a3,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+72,day5,a3,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+73,day5,a3,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+74,day5,a3,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+75,day5,a3,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+76,day5,a3,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+77,day5,a3,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+78,day5,a3,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+79,day5,a3,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+80,day5,a4,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+81,day5,a4,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+82,day5,a4,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+83,day5,a4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+84,day5,a4,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+85,day5,a4,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+86,day5,a4,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+87,day5,a4,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+88,day5,a4,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+89,day5,a4,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+90,day5,a4,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+91,day5,a4,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+92,day5,a4,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+93,day5,a4,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+94,day5,a4,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+95,day5,a4,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+96,day5,a4,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+97,day5,a4,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+98,day5,a4,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+99,day5,a4,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+100,day5,a5,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+101,day5,a5,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+102,day5,a5,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+103,day5,a5,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+104,day5,a5,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+105,day5,a5,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+106,day5,a5,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+107,day5,a5,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+108,day5,a5,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+109,day5,a5,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+110,day5,a5,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+111,day5,a5,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+112,day5,a5,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+113,day5,a5,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+114,day5,a5,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+115,day5,a5,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+116,day5,a5,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+117,day5,a5,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+118,day5,a5,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+119,day5,a5,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+120,day5,a6,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+121,day5,a6,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+122,day5,a6,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+123,day5,a6,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+124,day5,a6,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+125,day5,a7,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+126,day5,a7,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+127,day5,a7,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+128,day5,a7,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+129,day5,a7,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+130,day5,a8,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+131,day5,a8,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+132,day5,a8,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+133,day5,a8,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+134,day5,a8,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+135,day5,a9,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+136,day5,a9,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+137,day5,a9,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+138,day5,a9,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+139,day5,a9,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+140,day5,a10,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+141,day5,a10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+142,day5,a10,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+143,day5,a10,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+144,day5,a10,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+145,day5,a11,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+146,day5,a11,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+147,day5,a11,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+148,day5,a11,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+149,day5,a11,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+150,day5,a12,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+151,day5,a12,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+152,day5,a12,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+153,day5,a12,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+154,day5,a12,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+155,day5,a12,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+156,day5,a12,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+157,day5,a12,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+158,day5,a12,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+159,day5,a12,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+160,day5,a12,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+161,day5,a13,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+162,day5,a13,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+163,day5,a13,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+164,day5,a13,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+165,day5,a13,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+166,day5,a13,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+167,day5,a13,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+168,day5,a13,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+169,day5,a13,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+170,day5,a13,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+171,day5,a13,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+172,day5,a14,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+173,day5,a14,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+174,day5,a14,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+175,day5,a14,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+176,day5,a14,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+177,day5,a14,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+178,day5,a14,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+179,day5,a14,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+180,day5,a14,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+181,day5,a14,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+182,day5,a14,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+183,day5,a15,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+184,day5,a15,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+185,day5,a15,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+186,day5,a15,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+187,day5,a15,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+188,day5,a15,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+189,day5,a15,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+190,day5,a15,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+191,day5,a15,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+192,day5,a15,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+193,day5,a15,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+194,day5,a16,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+195,day5,a16,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+196,day5,a16,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+197,day5,a16,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+198,day5,a16,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+199,day5,a16,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+200,day5,a16,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+201,day5,a16,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+202,day5,a16,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+203,day5,a16,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+204,day5,a16,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+205,day5,a17,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+206,day5,a17,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+207,day5,a17,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+208,day5,a17,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+209,day5,a17,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+210,day5,a17,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+211,day5,a17,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+212,day5,a17,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+213,day5,a17,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+214,day5,a17,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+215,day5,a17,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+216,day4,a0,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+217,day4,a0,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+218,day4,a0,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+219,day4,a0,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+220,day4,a0,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+221,day4,a0,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+222,day4,a0,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+223,day4,a0,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+224,day4,a0,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+225,day4,a0,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+226,day4,a0,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+227,day4,a0,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+228,day4,a0,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+229,day4,a0,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+230,day4,a0,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+231,day4,a0,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+232,day4,a0,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+233,day4,a0,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+234,day4,a0,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+235,day4,a0,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+236,day4,a1,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+237,day4,a1,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+238,day4,a1,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+239,day4,a1,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+240,day4,a1,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+241,day4,a1,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+242,day4,a1,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+243,day4,a1,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+244,day4,a1,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+245,day4,a1,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+246,day4,a1,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+247,day4,a1,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+248,day4,a1,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+249,day4,a1,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+250,day4,a1,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+251,day4,a1,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+252,day4,a1,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+253,day4,a1,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+254,day4,a1,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+255,day4,a1,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+256,day4,a2,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+257,day4,a2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+258,day4,a2,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+259,day4,a2,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+260,day4,a2,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+261,day4,a2,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+262,day4,a2,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+263,day4,a2,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+264,day4,a2,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+265,day4,a2,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+266,day4,a2,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+267,day4,a2,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+268,day4,a2,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+269,day4,a2,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+270,day4,a2,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+271,day4,a2,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+272,day4,a2,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+273,day4,a2,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+274,day4,a2,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+275,day4,a2,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+276,day4,a3,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+277,day4,a3,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+278,day4,a3,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+279,day4,a3,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+280,day4,a3,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+281,day4,a3,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+282,day4,a3,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+283,day4,a3,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+284,day4,a3,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+285,day4,a3,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+286,day4,a3,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+287,day4,a3,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+288,day4,a3,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+289,day4,a3,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+290,day4,a3,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+291,day4,a3,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+292,day4,a3,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+293,day4,a3,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+294,day4,a3,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+295,day4,a3,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+296,day4,a4,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+297,day4,a4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+298,day4,a4,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+299,day4,a4,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+300,day4,a4,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+301,day4,a4,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+302,day4,a4,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+303,day4,a4,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+304,day4,a4,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+305,day4,a4,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+306,day4,a4,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+307,day4,a4,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+308,day4,a4,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+309,day4,a4,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+310,day4,a4,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+311,day4,a4,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+312,day4,a4,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+313,day4,a4,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+314,day4,a4,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+315,day4,a4,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+316,day4,a5,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+317,day4,a5,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+318,day4,a5,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+319,day4,a5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+320,day4,a5,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+321,day4,a5,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+322,day4,a5,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+323,day4,a5,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+324,day4,a5,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+325,day4,a5,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+326,day4,a5,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+327,day4,a5,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+328,day4,a5,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+329,day4,a5,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+330,day4,a5,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+331,day4,a5,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+332,day4,a5,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+333,day4,a5,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+334,day4,a5,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+335,day4,a5,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+336,day4,a6,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+337,day4,a6,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+338,day4,a6,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+339,day4,a6,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+340,day4,a6,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+341,day4,a7,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+342,day4,a7,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+343,day4,a7,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+344,day4,a7,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+345,day4,a7,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+346,day4,a8,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+347,day4,a8,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+348,day4,a8,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+349,day4,a8,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+350,day4,a8,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+351,day4,a9,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+352,day4,a9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+353,day4,a9,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+354,day4,a9,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+355,day4,a9,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+356,day4,a10,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+357,day4,a10,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+358,day4,a10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+359,day4,a10,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+360,day4,a10,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+361,day4,a11,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+362,day4,a11,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+363,day4,a11,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+364,day4,a11,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+365,day4,a11,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+366,day4,a12,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+367,day4,a12,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+368,day4,a12,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+369,day4,a12,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+370,day4,a12,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+371,day4,a12,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+372,day4,a12,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+373,day4,a12,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+374,day4,a12,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+375,day4,a12,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+376,day4,a12,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+377,day4,a13,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+378,day4,a13,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+379,day4,a13,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+380,day4,a13,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+381,day4,a13,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+382,day4,a13,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+383,day4,a13,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+384,day4,a13,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+385,day4,a13,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+386,day4,a13,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+387,day4,a13,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+388,day4,a14,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+389,day4,a14,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+390,day4,a14,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+391,day4,a14,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+392,day4,a14,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+393,day4,a14,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+394,day4,a14,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+395,day4,a14,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+396,day4,a14,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+397,day4,a14,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+398,day4,a14,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+399,day4,a15,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+400,day4,a15,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+401,day4,a15,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+402,day4,a15,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+403,day4,a15,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+404,day4,a15,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+405,day4,a15,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+406,day4,a15,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+407,day4,a15,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+408,day4,a15,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+409,day4,a15,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+410,day4,a16,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+411,day4,a16,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+412,day4,a16,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+413,day4,a16,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+414,day4,a16,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+415,day4,a16,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+416,day4,a16,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+417,day4,a16,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+418,day4,a16,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+419,day4,a16,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+420,day4,a16,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+421,day4,a17,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+422,day4,a17,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+423,day4,a17,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+424,day4,a17,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+425,day4,a17,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+426,day4,a17,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+427,day4,a17,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+428,day4,a17,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+429,day4,a17,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+430,day4,a17,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+431,day4,a17,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+432,day3,a0,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+433,day3,a0,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+434,day3,a0,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+435,day3,a0,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+436,day3,a0,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+437,day3,a0,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+438,day3,a0,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+439,day3,a0,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+440,day3,a0,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+441,day3,a0,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+442,day3,a0,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+443,day3,a0,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+444,day3,a0,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+445,day3,a0,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+446,day3,a0,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+447,day3,a0,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+448,day3,a0,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+449,day3,a0,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+450,day3,a0,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+451,day3,a0,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+452,day3,a1,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+453,day3,a1,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+454,day3,a1,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+455,day3,a1,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+456,day3,a1,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+457,day3,a1,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+458,day3,a1,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+459,day3,a1,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+460,day3,a1,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+461,day3,a1,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+462,day3,a1,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+463,day3,a1,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+464,day3,a1,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+465,day3,a1,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+466,day3,a1,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+467,day3,a1,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+468,day3,a1,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+469,day3,a1,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+470,day3,a1,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+471,day3,a1,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+472,day3,a2,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+473,day3,a2,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+474,day3,a2,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+475,day3,a2,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+476,day3,a2,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+477,day3,a2,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+478,day3,a2,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+479,day3,a2,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+480,day3,a2,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+481,day3,a2,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+482,day3,a2,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+483,day3,a2,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+484,day3,a2,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+485,day3,a2,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+486,day3,a2,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+487,day3,a2,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+488,day3,a2,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+489,day3,a2,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+490,day3,a2,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+491,day3,a2,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+492,day3,a3,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+493,day3,a3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+494,day3,a3,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+495,day3,a3,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+496,day3,a3,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+497,day3,a3,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+498,day3,a3,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+499,day3,a3,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+500,day3,a3,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+501,day3,a3,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+502,day3,a3,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+503,day3,a3,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+504,day3,a3,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+505,day3,a3,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+506,day3,a3,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+507,day3,a3,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+508,day3,a3,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+509,day3,a3,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+510,day3,a3,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+511,day3,a3,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+512,day3,a4,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+513,day3,a4,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+514,day3,a4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+515,day3,a4,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+516,day3,a4,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+517,day3,a4,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+518,day3,a4,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+519,day3,a4,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+520,day3,a4,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+521,day3,a4,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+522,day3,a4,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+523,day3,a4,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+524,day3,a4,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+525,day3,a4,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+526,day3,a4,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+527,day3,a4,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+528,day3,a4,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+529,day3,a4,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+530,day3,a4,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+531,day3,a4,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+532,day3,a5,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+533,day3,a5,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+534,day3,a5,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+535,day3,a5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+536,day3,a5,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+537,day3,a5,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+538,day3,a5,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+539,day3,a5,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+540,day3,a5,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+541,day3,a5,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+542,day3,a5,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+543,day3,a5,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+544,day3,a5,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+545,day3,a5,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+546,day3,a5,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+547,day3,a5,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+548,day3,a5,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+549,day3,a5,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+550,day3,a5,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+551,day3,a5,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+552,day3,a6,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+553,day3,a6,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+554,day3,a6,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+555,day3,a6,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+556,day3,a6,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+557,day3,a7,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+558,day3,a7,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+559,day3,a7,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+560,day3,a7,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+561,day3,a7,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+562,day3,a8,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+563,day3,a8,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+564,day3,a8,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+565,day3,a8,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+566,day3,a8,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+567,day3,a9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+568,day3,a9,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+569,day3,a9,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+570,day3,a9,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+571,day3,a9,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+572,day3,a10,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+573,day3,a10,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+574,day3,a10,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+575,day3,a10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+576,day3,a10,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+577,day3,a11,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+578,day3,a11,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+579,day3,a11,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+580,day3,a11,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+581,day3,a11,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+582,day3,a12,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+583,day3,a12,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+584,day3,a12,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+585,day3,a12,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+586,day3,a12,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+587,day3,a12,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+588,day3,a12,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+589,day3,a12,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+590,day3,a12,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+591,day3,a12,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+592,day3,a12,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+593,day3,a13,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+594,day3,a13,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+595,day3,a13,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+596,day3,a13,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+597,day3,a13,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+598,day3,a13,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+599,day3,a13,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+600,day3,a13,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+601,day3,a13,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+602,day3,a13,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+603,day3,a13,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+604,day3,a14,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+605,day3,a14,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+606,day3,a14,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+607,day3,a14,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+608,day3,a14,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+609,day3,a14,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+610,day3,a14,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+611,day3,a14,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+612,day3,a14,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+613,day3,a14,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+614,day3,a14,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+615,day3,a15,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+616,day3,a15,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+617,day3,a15,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+618,day3,a15,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+619,day3,a15,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+620,day3,a15,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+621,day3,a15,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+622,day3,a15,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+623,day3,a15,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+624,day3,a15,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+625,day3,a15,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+626,day3,a16,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+627,day3,a16,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+628,day3,a16,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+629,day3,a16,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+630,day3,a16,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+631,day3,a16,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+632,day3,a16,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+633,day3,a16,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+634,day3,a16,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+635,day3,a16,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+636,day3,a16,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+637,day3,a17,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+638,day3,a17,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+639,day3,a17,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+640,day3,a17,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+641,day3,a17,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+642,day3,a17,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+643,day3,a17,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+644,day3,a17,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+645,day3,a17,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+646,day3,a17,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+647,day3,a17,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+648,day2,a0,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+649,day2,a0,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+650,day2,a0,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+651,day2,a0,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+652,day2,a0,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+653,day2,a0,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+654,day2,a0,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+655,day2,a0,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+656,day2,a0,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+657,day2,a0,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+658,day2,a0,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+659,day2,a0,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+660,day2,a0,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+661,day2,a0,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+662,day2,a0,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+663,day2,a0,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+664,day2,a0,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+665,day2,a0,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+666,day2,a0,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+667,day2,a0,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+668,day2,a1,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+669,day2,a1,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+670,day2,a1,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+671,day2,a1,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+672,day2,a1,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+673,day2,a1,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+674,day2,a1,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+675,day2,a1,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+676,day2,a1,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+677,day2,a1,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+678,day2,a1,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+679,day2,a1,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+680,day2,a1,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+681,day2,a1,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+682,day2,a1,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+683,day2,a1,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+684,day2,a1,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+685,day2,a1,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+686,day2,a1,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+687,day2,a1,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+688,day2,a2,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+689,day2,a2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+690,day2,a2,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+691,day2,a2,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+692,day2,a2,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+693,day2,a2,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+694,day2,a2,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+695,day2,a2,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+696,day2,a2,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+697,day2,a2,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+698,day2,a2,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+699,day2,a2,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+700,day2,a2,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+701,day2,a2,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+702,day2,a2,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+703,day2,a2,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+704,day2,a2,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+705,day2,a2,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+706,day2,a2,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+707,day2,a2,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+708,day2,a3,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+709,day2,a3,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+710,day2,a3,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+711,day2,a3,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+712,day2,a3,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+713,day2,a3,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+714,day2,a3,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+715,day2,a3,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+716,day2,a3,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+717,day2,a3,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+718,day2,a3,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+719,day2,a3,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+720,day2,a3,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+721,day2,a3,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+722,day2,a3,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+723,day2,a3,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+724,day2,a3,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+725,day2,a3,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+726,day2,a3,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+727,day2,a3,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+728,day2,a4,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+729,day2,a4,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+730,day2,a4,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+731,day2,a4,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+732,day2,a4,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+733,day2,a4,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+734,day2,a4,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+735,day2,a4,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+736,day2,a4,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+737,day2,a4,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+738,day2,a4,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+739,day2,a4,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+740,day2,a4,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+741,day2,a4,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+742,day2,a4,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+743,day2,a4,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+744,day2,a4,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+745,day2,a4,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+746,day2,a4,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+747,day2,a4,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+748,day2,a5,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+749,day2,a5,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+750,day2,a5,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+751,day2,a5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+752,day2,a5,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+753,day2,a5,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+754,day2,a5,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+755,day2,a5,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+756,day2,a5,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+757,day2,a5,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+758,day2,a5,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+759,day2,a5,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+760,day2,a5,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+761,day2,a5,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+762,day2,a5,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+763,day2,a5,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+764,day2,a5,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+765,day2,a5,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+766,day2,a5,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+767,day2,a5,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+768,day2,a6,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+769,day2,a6,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+770,day2,a6,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+771,day2,a6,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+772,day2,a6,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+773,day2,a7,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+774,day2,a7,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+775,day2,a7,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+776,day2,a7,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+777,day2,a7,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+778,day2,a8,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+779,day2,a8,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+780,day2,a8,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+781,day2,a8,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+782,day2,a8,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+783,day2,a9,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+784,day2,a9,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+785,day2,a9,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+786,day2,a9,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+787,day2,a9,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+788,day2,a10,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+789,day2,a10,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+790,day2,a10,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+791,day2,a10,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+792,day2,a10,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+793,day2,a11,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+794,day2,a11,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+795,day2,a11,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+796,day2,a11,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+797,day2,a11,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+798,day2,a12,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+799,day2,a12,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+800,day2,a12,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+801,day2,a12,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+802,day2,a12,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+803,day2,a12,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+804,day2,a12,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+805,day2,a12,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+806,day2,a12,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+807,day2,a12,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+808,day2,a12,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+809,day2,a13,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+810,day2,a13,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+811,day2,a13,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+812,day2,a13,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+813,day2,a13,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+814,day2,a13,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+815,day2,a13,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+816,day2,a13,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+817,day2,a13,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+818,day2,a13,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+819,day2,a13,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+820,day2,a14,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+821,day2,a14,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+822,day2,a14,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+823,day2,a14,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+824,day2,a14,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+825,day2,a14,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+826,day2,a14,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+827,day2,a14,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+828,day2,a14,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+829,day2,a14,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+830,day2,a14,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+831,day2,a15,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+832,day2,a15,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+833,day2,a15,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+834,day2,a15,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+835,day2,a15,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+836,day2,a15,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+837,day2,a15,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+838,day2,a15,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+839,day2,a15,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+840,day2,a15,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+841,day2,a15,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+842,day2,a16,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+843,day2,a16,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+844,day2,a16,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+845,day2,a16,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+846,day2,a16,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+847,day2,a16,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+848,day2,a16,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+849,day2,a16,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+850,day2,a16,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+851,day2,a16,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+852,day2,a16,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+853,day2,a17,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+854,day2,a17,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+855,day2,a17,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+856,day2,a17,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+857,day2,a17,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+858,day2,a17,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+859,day2,a17,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+860,day2,a17,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+861,day2,a17,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+862,day2,a17,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+863,day2,a17,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+864,day1,a0,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+865,day1,a0,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+866,day1,a0,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+867,day1,a0,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+868,day1,a0,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+869,day1,a0,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+870,day1,a0,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+871,day1,a0,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+872,day1,a0,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+873,day1,a0,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+874,day1,a0,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+875,day1,a0,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+876,day1,a0,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+877,day1,a0,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+878,day1,a0,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+879,day1,a0,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+880,day1,a0,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+881,day1,a0,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+882,day1,a0,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+883,day1,a0,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+884,day1,a1,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+885,day1,a1,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+886,day1,a1,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+887,day1,a1,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+888,day1,a1,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+889,day1,a1,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+890,day1,a1,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+891,day1,a1,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+892,day1,a1,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+893,day1,a1,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+894,day1,a1,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+895,day1,a1,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+896,day1,a1,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+897,day1,a1,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+898,day1,a1,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+899,day1,a1,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+900,day1,a1,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+901,day1,a1,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+902,day1,a1,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+903,day1,a1,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+904,day1,a2,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+905,day1,a2,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+906,day1,a2,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+907,day1,a2,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+908,day1,a2,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+909,day1,a2,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+910,day1,a2,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+911,day1,a2,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+912,day1,a2,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+913,day1,a2,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+914,day1,a2,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+915,day1,a2,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+916,day1,a2,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+917,day1,a2,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+918,day1,a2,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+919,day1,a2,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+920,day1,a2,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+921,day1,a2,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+922,day1,a2,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+923,day1,a2,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+924,day1,a3,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+925,day1,a3,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+926,day1,a3,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+927,day1,a3,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+928,day1,a3,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+929,day1,a3,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+930,day1,a3,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+931,day1,a3,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+932,day1,a3,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+933,day1,a3,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+934,day1,a3,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+935,day1,a3,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+936,day1,a3,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+937,day1,a3,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+938,day1,a3,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+939,day1,a3,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+940,day1,a3,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+941,day1,a3,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+942,day1,a3,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+943,day1,a3,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+944,day1,a4,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+945,day1,a4,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+946,day1,a4,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+947,day1,a4,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+948,day1,a4,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+949,day1,a4,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+950,day1,a4,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+951,day1,a4,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+952,day1,a4,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+953,day1,a4,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+954,day1,a4,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+955,day1,a4,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+956,day1,a4,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+957,day1,a4,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+958,day1,a4,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+959,day1,a4,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+960,day1,a4,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+961,day1,a4,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+962,day1,a4,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+963,day1,a4,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+964,day1,a5,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+965,day1,a5,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+966,day1,a5,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+967,day1,a5,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+968,day1,a5,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+969,day1,a5,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+970,day1,a5,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+971,day1,a5,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+972,day1,a5,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+973,day1,a5,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+974,day1,a5,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+975,day1,a5,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+976,day1,a5,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+977,day1,a5,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+978,day1,a5,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+979,day1,a5,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+980,day1,a5,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+981,day1,a5,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+982,day1,a5,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+983,day1,a5,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+984,day1,a6,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+985,day1,a6,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+986,day1,a6,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+987,day1,a6,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+988,day1,a6,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+989,day1,a7,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+990,day1,a7,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+991,day1,a7,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+992,day1,a7,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+993,day1,a7,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+994,day1,a8,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+995,day1,a8,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+996,day1,a8,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+997,day1,a8,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+998,day1,a8,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+999,day1,a9,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+1000,day1,a9,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+1001,day1,a9,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+1002,day1,a9,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+1003,day1,a9,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+1004,day1,a10,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+1005,day1,a10,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+1006,day1,a10,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+1007,day1,a10,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+1008,day1,a10,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+1009,day1,a11,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+1010,day1,a11,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+1011,day1,a11,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+1012,day1,a11,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+1013,day1,a11,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+1014,day1,a12,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+1015,day1,a12,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+1016,day1,a12,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+1017,day1,a12,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+1018,day1,a12,"Franciscan Estate Cabernet Sauvignon, Napa Valley, USA",Napa Valley,22,1100
+1019,day1,a12,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+1020,day1,a12,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+1021,day1,a12,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+1022,day1,a12,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+1023,day1,a12,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+1024,day1,a12,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+1025,day1,a13,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+1026,day1,a13,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+1027,day1,a13,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+1028,day1,a13,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+1029,day1,a13,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+1030,day1,a13,"PlumpJack Winery Estate Cabernet Sauvignon, Oakville, USA",Oakville,153,1142
+1031,day1,a13,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+1032,day1,a13,"Darioush Signature Series Cabernet Sauvignon, Napa Valley, USA",Napa Valley,126,1266
+1033,day1,a13,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+1034,day1,a13,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+1035,day1,a13,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+1036,day1,a14,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+1037,day1,a14,"Abreu Vineyard Madrona Ranch Cabernet Sauvignon, Napa Valley, USA",Napa Valley,417,960
+1038,day1,a14,"Philip Togni Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,156,982
+1039,day1,a14,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+1040,day1,a14,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+1041,day1,a14,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+1042,day1,a14,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+1043,day1,a14,"Diamond Creek Volcanic Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,244,1124
+1044,day1,a14,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+1045,day1,a14,"Paul Hobbs Cabernet Sauvignon, Napa Valley, USA",Napa Valley,120,1167
+1046,day1,a14,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+1047,day1,a15,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+1048,day1,a15,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+1049,day1,a15,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+1050,day1,a15,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+1051,day1,a15,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+1052,day1,a15,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+1053,day1,a15,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+1054,day1,a15,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+1055,day1,a15,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+1056,day1,a15,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+1057,day1,a15,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
+1058,day1,a16,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,53,949
+1059,day1,a16,"Stag's Leap Wine Cellars 'S.L.V' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,173,993
+1060,day1,a16,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+1061,day1,a16,"Corison Cabernet Sauvignon, Napa Valley, USA",Napa Valley,109,1092
+1062,day1,a16,"Freemark Abbey Napa Valley Cabernet Sauvignon, California, USA",Napa Valley,45,1101
+1063,day1,a16,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+1064,day1,a16,"Beaulieu Vineyard BV Napa Valley Cabernet Sauvignon, USA",Napa Valley,27,1130
+1065,day1,a16,"Sterling Vineyards Cabernet Sauvignon, Napa Valley, USA",Napa Valley,28,1148
+1066,day1,a16,"Robert Mondavi Winery 'The Reserve' To Kalon Vineyard Cabernet Sauvignon, Oakville, USA",Oakville,146,1217
+1067,day1,a16,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+1068,day1,a16,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+1069,day1,a17,"Spring Mountain Vineyard Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1033
+1070,day1,a17,"Chimney Rock Cabernet Sauvignon, Stags Leap District, USA",Stags Leap District,94,1041
+1071,day1,a17,"Hall Wines 'Kathryn Hall' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,190,1051
+1072,day1,a17,"Chaix Rutherford Cabernet Sauvignon, Napa Valley, USA",Rutherford,80,1114
+1073,day1,a17,"Paradigm Cabernet Sauvignon, Oakville, USA",Oakville,82,1186
+1074,day1,a17,"Inglenook Cabernet Sauvignon, Rutherford, USA",Rutherford,75,1205
+1075,day1,a17,"Staglin Family Vineyard Estate Cabernet Sauvignon, Rutherford, USA",Rutherford,246,1291
+1076,day1,a17,"Chappellet Pritchard Hill Cabernet Sauvignon, Napa Valley, USA",Napa Valley,251,1297
+1077,day1,a17,"Chappellet Signature Cabernet Sauvignon, Napa Valley, USA",Napa Valley,70,1297
+1078,day1,a17,"Anderson's Conn Valley Vineyards 'Estate Reserve' Cabernet Sauvignon, Napa Valley, USA",Napa Valley,86,1302
+1079,day1,a17,"Lokoya Winery Mount Veeder Cabernet Sauvignon, Napa Valley, USA",Mount Veeder,402,1318
